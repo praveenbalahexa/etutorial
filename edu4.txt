@@ -1,2 +1,6 @@
 4th file - 1st file in firstbranch
+<<<<<<< HEAD
 changed after the firstbanch modifications
+=======
+modified in firstbranch
+>>>>>>> firstbranch
